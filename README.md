@@ -18,7 +18,7 @@
 </a> -->
 
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" height="190" src="https://github-readme-stats.vercel.app/api/wakatime?username=cedricbahirwe" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=cedricbahirwe" />
 </a>
 
 <!-- <img border="0" width="50%" height="164" align="left" src="https://github-readme-stats.vercel.app/api?username=cedricbahirwe&include_all_commits=true&count_private=true&show_icons=true&hide=stars" /> -->
