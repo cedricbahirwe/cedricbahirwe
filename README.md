@@ -28,11 +28,4 @@ ___
 
 |My github statistics|My languages|Streaks|
 |-|-|-|
-|[![descholar's github stats](https://github-readme-stats.vercel.app/api?username=descholar-ceo&show_icons=true&theme=dark&hide_title=true)](https://github.com/descholar-ceo)|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cedricbahirwe&show_icons=true&theme=dark&layout=compact&hide_title=true)](https://github.com/descholar-ceo)|![descholar-ceo](https://github-readme-streak-stats.herokuapp.com/?user=descholar-ceo&theme=dark)
-
-```
-<!--END_SECTION:waka-->
-### My blogposts
-<!-- BLOG-POST-LIST:START -->
-
-<!-- BLOG-POST-LIST:END -->
+|[![descholar's github stats](https://github-readme-stats.vercel.app/api?username=descholar-ceo&show_icons=true&theme=dark&hide_title=true)](https://github.com/descholar-ceo)|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cedricbahirwe&show_icons=true&theme=dark&layout=compact&hide_title=true)](https://github.com/descholar-ceo)|![descholar-ceo](https://github-readme-streak-stats.herokuapp.com/?user=cedricbahirwe&theme=dark)
