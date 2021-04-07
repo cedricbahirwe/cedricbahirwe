@@ -9,13 +9,15 @@
 - 💬 Ask me about `swift` and `iOS`
 - ⚡ Fun fact: Coding is my `hobby`
 
-<p align="center">
-<!-- <img border="0" width="50%" height="164" align="left" src="https://github-readme-stats.vercel.app/api?username=cedricbahirwe&include_all_commits=true&count_private=true&show_icons=true&hide=stars" /> -->
-</p>
+<div>
+  
+<img border="0" width="50%" height="164" align="left" src="https://github-readme-stats.vercel.app/api?username=cedricbahirwe&include_all_commits=true&count_private=true&show_icons=true&hide=stars" />
+
+</div>
 
 
 ### About me
-Collaborative, responsible, detail-oriented, and growth mindset are the top four adjectives that best define my aptitude towards work.
+Responsible, detail-oriented, and growth mindset are the top 3 adjectives that best define my aptitude towards work.
 
 I work diligently as an individual and as a team member. I develop professional iOS and web applications. My tasks concern analyzing, testing, debugging, troubleshooting, and implementing based on user or system design specifications.
 
