@@ -13,9 +13,9 @@
 <a href="https://github.com/cedricbahirwe/cedricbahirwe">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=cedricbahirwe&include_all_commits=true&count_private=true&show_icons=true&hide=stars" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
+<!-- <a href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cedricbahirwe&layout=compact" />
-</a>
+</a> -->
 
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=cedricbahirwe" />
