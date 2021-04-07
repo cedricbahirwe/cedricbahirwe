@@ -10,12 +10,12 @@
 - ⚡ Fun fact: Coding is my `hobby`
 
 
-<img border="0" width="50%" height="164" align="left" src="https://github-readme-stats.vercel.app/api?username=cedricbahirwe&include_all_commits=true&count_private=true&show_icons=true&hide=stars" />
+<!-- <img border="0" width="50%" height="164" align="left" src="https://github-readme-stats.vercel.app/api?username=cedricbahirwe&include_all_commits=true&count_private=true&show_icons=true&hide=stars" /> -->
 
 <!-- <img border="0" width="45%" height="164" align="right" src="https://github-readme-stats.vercel.app/api/wakatime?username=cedricbahirwe" /> -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cedricbahirwe&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+<!-- <img border="0" width="50%" height="164" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cedricbahirwe&layout=compact" /> -->
 
 ### About me
 Responsible, detail-oriented, and growth mindset are the top 3 adjectives that best define my aptitude towards work.
