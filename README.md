@@ -12,7 +12,7 @@
 
 <img border="0" width="50%" height="164" align="left" src="https://github-readme-stats.vercel.app/api?username=cedricbahirwe&include_all_commits=true&count_private=true&show_icons=true&hide=stars" />
 
-<img border="0" height="50%" align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=cedricbahirwe&repo=uikit-projects" />
+<img border="0" width="50%" height="164" align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=cedricbahirwe&repo=uikit-projects" />
 
 
 
