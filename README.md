@@ -28,4 +28,4 @@ ___
 
 |My Github statistics|My Languages|Streaks|
 |-|-|-|
-|[![Cedric's github stats](https://github-readme-stats.vercel.app/api?username=cedricbahirwe&show_icons=true&theme=dark&hide_title=true)](https://github.com/descholar-ceo)|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cedricbahirwe&show_icons=true&theme=dark&layout=compact&hide_title=true)](https://github.com/descholar-ceo)|![descholar-ceo](https://github-readme-streak-stats.herokuapp.com/?user=cedricbahirwe&theme=dark)
+|[![Cedric's github stats](https://github-readme-stats.vercel.app/api?username=cedricbahirwe&show_icons=true&theme=dark&hide_title=true)](https://github.com/cedricbahirwe)|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cedricbahirwe&show_icons=true&theme=dark&layout=compact&hide_title=true)](https://github.com/cedricbahirwe)|![cedricbahirwe](https://github-readme-streak-stats.herokuapp.com/?user=cedricbahirwe&theme=dark)
