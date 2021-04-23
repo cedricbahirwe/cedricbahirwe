@@ -7,7 +7,7 @@
 - 👯 I’m looking to collaborate on iOS and React Projects/Ideas
 - 🔦 Read more on my website: [cedricbahirwe](https://cedricbahirwe.github.io)
 - 💬 Ask me about `swift` and `iOS`
-- ⚡ Fun fact: Coding is my `hobby`
+- ⚡ Fun facts: Coding is my `hobby`, I like closing `chrome tabs`
 
 
 <a href="https://github.com/cedricbahirwe/cedricbahirwe">
