@@ -1,11 +1,11 @@
 ### Hi there, I'm Cédric Bahirwe, 👋
 
 
-- 🏭 I'm an `iOS`, `wathOS` Developer, Fron-End Enthusiast (React)
+- 🏭 I'm an `iOS`, `wathOS` Developer, Front-End Enthusiast (React)
 - 🔭 I’m currently working on a lot of things
 - 🌱 I’m currently learning React and watchOS
 - 👯 I’m looking to collaborate on iOS and React Projects/Ideas
-- 🔦 Read more on my website: [cedricbahirwe](https://cedricbahirwe.github.io)
+- <!--*- 🔦 Read more on my website: [cedricbahirwe](https://cedricbahirwe.github.io) -->
 - 💬 Ask me about `swift` and `iOS`
 - ⚡ Fun facts: Coding is my `hobby`, I like closing `chrome tabs`
 
