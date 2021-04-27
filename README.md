@@ -5,7 +5,7 @@
 - 🔭 I’m currently working on a lot of porjects, things and ideas
 - 🌱 I’m currently learning React and watchOS
 - 👯 I’m looking to collaborate on iOS and React Projects/Ideas
-- <!--*- 🔦 Read more on my website: [cedricbahirwe](https://cedricbahirwe.github.io) -->
+<!--*- - 🔦 Read more on my website: [cedricbahirwe](https://cedricbahirwe.github.io) -->
 - 💬 Ask me about `Swift`, `SwiftUI` and `iOS`
 - ⚡ Fun facts: Coding is my `hobby`, I like closing `chrome tabs`
 
