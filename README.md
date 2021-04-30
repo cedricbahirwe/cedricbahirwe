@@ -1,7 +1,7 @@
 ### Hi there, I'm Cédric Bahirwe, 👋
 
 
-- 🏭 I'm a `Swif` Developer, Front-End Enthusiast (`React`)
+- 🏭 I'm a `Swift` Developer, Front-End Enthusiast (`React`)
 - 📱 I build apps for iOS, watchOS plateforms⌚️
 - 🔭 I’m currently working on a lot of porjects, things and ideas
 - 🌱 I’m currently learning React and watchOS
