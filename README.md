@@ -4,7 +4,7 @@
 - 🏭 I'm a `Swift` Developer, Front-End Enthusiast (`React`)
 - 📱 I build apps for iOS and watchOS plateforms⌚️
 - 🔭 I’m currently working on a lot of projects, things and ideas
-- 🌱 I’m currently learning React and watchOS
+- 🌱 I’m currently learning React, Core Data and watchOS
 - 👯 I’m looking to collaborate on iOS and React Projects/Ideas
 <!--*- - 🔦 Read more on my website: [cedricbahirwe](https://cedricbahirwe.github.io) -->
 - 💬 Ask me about `Swift`, `SwiftUI` and `iOS`
