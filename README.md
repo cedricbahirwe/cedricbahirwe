@@ -8,7 +8,7 @@
 - 👯 I’m looking to collaborate on iOS and React Projects/Ideas
 - 💬 Ask me about `Swift`, `SwiftUI` and `iOS`
 - ⚡ Fun facts: Coding is a `hobby`, I like closing `chrome tabs`
-- ★ Worldwide 21st in SwiftUI field at [StackOverflow](https://stackoverflow.com/tags/swiftui/topusers)
+- ★ Worldwide top 25 in SwiftUI field at [StackOverflow](https://stackoverflow.com/tags/swiftui/topusers)
 <!--*- - 🔦 Read more on my website: [cedricbahirwe](https://cedricbahirwe.github.io) -->
 
 <a href="https://github.com/cedricbahirwe/cedricbahirwe">
