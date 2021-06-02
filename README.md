@@ -29,7 +29,7 @@ I work diligently as an individual and as a team member. I develop professional 
 
 ### Connect with me:
 
-[![Follow on Twitter](https://img.shields.io/badge/--twitter?label=Twitter&logo=Twitter&style=social)](https://twitter.com/CBahirwe) [![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/cedricbahirwe) [![Send me email](https://img.shields.io/badge/--gmail?label=Gmail&logo=Gmail&style=social)](mailto:cedricaganzebahirwe@gmail.com) [![Angellist profile](https://img.shields.io/badge/--angellist?label=AngelList&logo=AngelList&style=social)](https://angel.co/u/cedricbahirwe) 
+[![Follow on Twitter](https://img.shields.io/badge/--twitter?label=Twitter&logo=Twitter&style=social)](https://twitter.com/cedricbahirwe) [![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/cedricbahirwe) [![Send me email](https://img.shields.io/badge/--gmail?label=Gmail&logo=Gmail&style=social)](mailto:cedricaganzebahirwe@gmail.com) [![Angellist profile](https://img.shields.io/badge/--angellist?label=AngelList&logo=AngelList&style=social)](https://angel.co/u/cedricbahirwe) 
 ___
 
 |My Github statistics|My Languages|Streaks|
