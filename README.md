@@ -2,6 +2,7 @@
 
 
 - 🏭 I'm a `Swift` Developer, Front-End Enthusiast (`React`)
+- 👨🏽‍💻 Aspiring OS X Developer
 - 📱 I build apps for iOS and watchOS plateforms⌚️
 - 🔭 I’m currently working on a lot of projects, things and ideas
 - 🌱 I’m currently learning React, Core Data and watchOS
