@@ -24,7 +24,7 @@
 </a> -->
 
 ### About me
-Responsible, detail-oriented, and growth mindset are the top 3 adjectives that best define my aptitude towards work.
+Responsible, detail-oriented, and growth mindset are the top adjectives that best define my aptitude towards work.
 
 I work diligently as an individual and as a team member. I develop professional iOS and web applications. My tasks concern analyzing, testing, debugging, troubleshooting, and implementing based on user or system design specifications.
 
