@@ -1,4 +1,4 @@
-### Hi there, I'm Cédric Bahirwe, 👋
+### Hi there👋, I'm Cédric Bahirwe
 
 
 - 🏭 I'm a `Swift` Developer, Front-End Enthusiast (`React`)
