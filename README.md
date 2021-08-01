@@ -5,12 +5,12 @@
 - 👨🏽‍💻 Aspiring OS X Developer
 - 📱 I build apps for iOS and watchOS plateforms⌚️
 - 🔭 I’m currently working on a lot of projects, things and ideas
-- 🌱 I’m currently learning React, CoreData and watchOS
+- 🌱 I’m currently learning React, CoreData and some high level things💫😉
 - 👯 I’m looking to collaborate on iOS and React Projects/Ideas
 - 💬 Ask me about `Swift`, `SwiftUI` and `iOS`
-- ⚡ Fun facts: Coding is a `hobby`, I like closing `chrome tabs`
-- ★ Worldwide top 25 in SwiftUI field at [StackOverflow](https://stackoverflow.com/tags/swiftui/topusers)
-<!--*- - 🔦 Read more on my website: [cedricbahirwe](https://cedricbahirwe.github.io) -->
+- ⚡ Fun facts: I love `SwiftUI`, , I like closing `chrome tabs`, wanna know why!!!👽
+- ★ Worldwide top 25 in `SwiftUI` field at [StackOverflow](https://stackoverflow.com/tags/swiftui/topusers)
+- 🔦 Read more on my website: [cedricbahirwe](https://cedricbahirwe.github.io)
 
 <!-- <a href="https://github.com/cedricbahirwe/cedricbahirwe">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=cedricbahirwe&include_all_commits=true&count_private=true&show_icons=true&hide=stars" /> -->
