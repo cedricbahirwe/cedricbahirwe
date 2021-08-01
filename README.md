@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning React, CoreData and some high level things💫😉
 - 👯 I’m looking to collaborate on iOS and React Projects/Ideas
 - 💬 Ask me about `Swift`, `SwiftUI` and `iOS`
-- ⚡ Fun facts: I love `SwiftUI`, , I like closing `chrome tabs`, wanna know why!!!👽
+- ⚡ Fun facts: I love `SwiftUI`, and I like closing `chrome tabs`, wanna know why!!!👽
 - ★ Worldwide top 25 in `SwiftUI` field at [StackOverflow](https://stackoverflow.com/tags/swiftui/topusers)
 - 🔦 Read more on my website: [cedricbahirwe](https://cedricbahirwe.github.io)
 
