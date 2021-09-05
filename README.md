@@ -5,7 +5,7 @@
 - 👨🏽‍💻 Aspiring OS X Developer
 - 📱 I build apps for iOS and watchOS plateforms⌚️
 - 🔭 I’m currently working on some projects, few things and a lot of ideas.
-- 🌱 I’m learning React, CoreData and some high level things💫😉
+- 🌱 I’m a Full-time learner, currently learning React, CoreData and some high level things💫😉
 - 👯 I’m looking to collaborate on iOS and React Projects/Ideas
 - 💬 Ask me about `Swift`, `SwiftUI` and `iOS`
 - ⚡ Fun facts: I love `SwiftUI`, and I like closing `chrome tabs`, wanna know why!!!👽
