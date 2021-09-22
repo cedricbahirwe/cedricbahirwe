@@ -2,7 +2,7 @@
 
 
 - 🏭 I'm a `Swift` Developer, Front-End Enthusiast (`React` actor)
-- 👨🏽‍💻 Aspiring OS X Developer
+- 👨🏽‍💻 Aspiring Architect and OS X Developer
 - 📱 I build apps for iOS and watchOS plateforms⌚️
 - 🔭 I’m currently working on some projects, few things and a lot of ideas.
 - 🌱 I’m a Full-time learner, currently learning React, CoreData and some high level things💫😉
@@ -11,11 +11,11 @@
 - ⚡ Fun facts: I love `SwiftUI`, and I like closing `chrome tabs`, wanna know why!!!👽
 - ★ Worldwide top 25 in `SwiftUI` field at [StackOverflow](https://stackoverflow.com/tags/swiftui/topusers)
 - 🔦 Read less on my website: [cedricbahirwe](https://cedricbahirwe.github.io)
-
+<!-- 
 </a>
 <a href="https://github.com/cedricbahirwe/cedricbahirwe">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cedricbahirwe&layout=compact" />
-</a>
+</a> -->
 
 ### About me
 Responsible, detail-oriented, and growth mindset are the top adjectives that best define my aptitude towards work.
