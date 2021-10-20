@@ -2,7 +2,7 @@
 
 
 - 🏭 I'm a `Swift` Developer, Front-End Enthusiast (`React` actor)
-- 👨🏽‍💻 Aspiring Architect and OS X Developer
+- 👨🏽‍💻 Aspiring System Architect and OS X Developer
 - 📱 I build apps for iOS and watchOS plateforms⌚️
 - 🔭 I’m currently working on some projects, few things and a lot of ideas.
 - 🌱 I’m a Full-time learner, currently learning React, CoreData and some high level things💫😉
