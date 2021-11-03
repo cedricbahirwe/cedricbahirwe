@@ -10,7 +10,7 @@
 - 💬 Ask me about `Swift`, `SwiftUI` and `iOS`
 - ⚡ Fun facts: I love `SwiftUI`, and I like closing `chrome tabs`, wanna know why!!!👽
 - ★ Worldwide top 25 in `SwiftUI` field at [StackOverflow](https://stackoverflow.com/tags/swiftui/topusers)
-- 🔦 Read less on my website: [cedricbahirwe](https://cedricbahirwe.github.io)
+<!-- - 🔦 Read less on my website: [cedricbahirwe](https://cedricbahirwe.github.io) -->
 <!-- 
 </a>
 <a href="https://github.com/cedricbahirwe/cedricbahirwe">
