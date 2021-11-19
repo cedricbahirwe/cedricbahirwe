@@ -1,15 +1,16 @@
 ### Hi there👋, I'm Cédric Bahirwe
 
 
-- 🏭 I'm a `Swift` Developer, Front-End Enthusiast (`React` actor)
+- 🏭 I'm an `iOS` Developer, Front-End Enthusiast (`React` actor)
 - 👨🏽‍💻 Aspiring System Architect and OS X Developer
+- ⚙ I'm passionate about clean code and architectur
 - 📱 I build apps for iOS and watchOS plateforms⌚️
 - 🔭 I’m currently working on some projects, few things and a lot of ideas.
 - 🌱 I’m a Full-time learner, currently learning React, CoreData and some high level things💫😉
 - 👯 I’m looking to collaborate on iOS and React Projects/Ideas
 - 💬 Ask me about `Swift`, `SwiftUI` and `iOS`
-- ⚡ Fun facts: I love `SwiftUI`, and I like closing `chrome tabs`, wanna know why!!!👽
-- 🔦 Read less on my website: [cedricbahirwe](https://cedricbahirwe.github.io)
+- ⚡ Fun facts: I love `SwiftUI`, and I know the truth!�
+- 🔦 Read less on my nano website: [cedricbahirwe](https://cedricbahirwe.github.io)
 <!-- - ★ Worldwide top 25 in `SwiftUI` field at [StackOverflow](https://stackoverflow.com/tags/swiftui/topusers) -->
 <!-- 
 </a>
