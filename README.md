@@ -19,9 +19,9 @@
 </a> -->
 
 ### About me
-Responsible, detail-oriented, and growth mindset are the top adjectives that best define my aptitude towards work.
+Responsible, great focus abilities and growth mindset are the top characteristics that best define my aptitude towards work.
 
-I work diligently as an individual and as a team member. I develop professional iOS and web applications. My tasks concern analyzing, testing, debugging, troubleshooting, and implementing based on user or system design specifications.
+I work diligently as an individual and as a team member. I develop professional iOS and web applications. My favorite tasks concern analyzing, testing, debugging, troubleshooting, and implementing based on user or system design specifications.
 
 ### Connect with me:
 
