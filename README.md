@@ -9,7 +9,7 @@
 - 🌱 I’m a Full-time learner, currently learning React, CoreData and some high level things💫😉
 - 👯 I’m looking to collaborate on iOS and React Projects/Ideas
 - 💬 Ask me about `Swift`, `SwiftUI` and `iOS`
-- ⚡ Fun facts: I love `SwiftUI`, and I know the truth!䷼
+- ⚡ Fun facts: I love `SwiftUI`, and I know the truth!🧞‍♂️
 - 🔦 Read less on my nano website: [cedricbahirwe](https://cedricbahirwe.github.io)
 <!-- - ★ Worldwide top 25 in `SwiftUI` field at [StackOverflow](https://stackoverflow.com/tags/swiftui/topusers) -->
 <!-- 
