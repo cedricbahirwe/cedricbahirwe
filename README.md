@@ -11,12 +11,6 @@
 - 💬 Ask me about `Swift`, `SwiftUI` and `iOS`
 - ⚡ Fun facts: I love `SwiftUI`, and I know the truth!🧞‍♂️
 - 🔦 Read less on my nano website: [cedricbahirwe](https://cedricbahirwe.github.io)
-<!-- - ★ Worldwide top 25 in `SwiftUI` field at [StackOverflow](https://stackoverflow.com/tags/swiftui/topusers) -->
-<!-- 
-</a>
-<a href="https://github.com/cedricbahirwe/cedricbahirwe">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cedricbahirwe&layout=compact" />
-</a> -->
 
 ### About me
 Responsible, great focus abilities and growth mindset are the top characteristics that best define my aptitude towards work.
