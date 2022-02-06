@@ -6,7 +6,7 @@
 - ⚙ I'm passionate about Clean Code and Architecture
 - 📱 I build apps for iOS and watchOS plateforms⌚️
 - 🔭 I’m currently working on some projects, few things and a lot of ideas.
-- 🌱 I’m a Full-time learner, currently learning RxSwift, CoreData, React and some high level things💫😉
+- 🌱 I’m a currently learning and working with RxSwift, CoreData, iOS Design Patterns and some high level things💫😉
 - 👯 I’m looking to help on iOS and React Projects/Ideas
 - 💬 Ask me about `Swift`, `SwiftUI` and `iOS`
 - ⚡ Fun facts: I love `SwiftUI`, and I know the truth!🧞‍♂️
