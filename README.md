@@ -9,7 +9,7 @@
 - 🌱 I’m a currently learning and working with RxSwift, Vapor, iOS Design Patterns and some high level things💫😉
 - 👯 I’m looking to help on iOS and React Projects/Ideas
 - 💬 Ask me about `Swift`, `SwiftUI` and `iOS`
-- ⚡ Fun facts: I love `SwiftUI`, and I know the truth!🧞‍♂️
+- ⚡ Fun facts: I speak `SwiftUI`, and I know the truth!🧞‍♂️
 - 🔦 Read less on my nano website: [cedricbahirwe](https://cedricbahirwe.github.io)
 
 ### About me
