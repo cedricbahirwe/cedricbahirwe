@@ -1,12 +1,12 @@
 ### Hi there👋, I'm Cédric Bahirwe
 
 
-- 🏭 I'm an `iOS` Engineer, Front-End Enthusiast (`React` )
+- 🏭 I'm an `iOS` Engineer, Front-End(`React`) and Back-End (`Vapor`) Enthusiast
 - 👨🏽‍💻 Aspiring System Architect and OS X Developer
 - ⚙ I'm passionate about Clean Code and Architecture
-- 📱 I build apps for iOS and watchOS plateforms⌚️
+- 📱 I build apps for **iOS** and **watchOS** plateforms⌚️
 - 🔭 I’m currently working on some projects, few things and a lot of ideas.
-- 🌱 I’m a currently learning and working with RxSwift, Vapor, iOS Design Patterns and some high level things💫😉
+- 🌱 I’m learning and working with RxSwift, Vapor, iOS Design Patterns and some high level things💫😉
 - 👯 I’m looking to help on iOS and React Projects/Ideas
 - 💬 Ask me about `Swift`, `SwiftUI` or `iOS` Development in general
 - ⚡ Fun facts: I speak `SwiftUI`, and I know the truth!🧞‍♂️
