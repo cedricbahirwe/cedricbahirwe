@@ -4,10 +4,9 @@
 - 🏭 I'm an `iOS` Engineer and Back-End (`Vapor`) Enthusiast
 - 👨🏽‍💻 Aspiring System Architect and OS X Developer
 - ⚙ I'm passionate about Clean Code and Architecture
-- 📱 I build apps for **iOS** and **watchOS** plateforms⌚️
 - 🔭 I’m currently working on some projects, few things and a lot of ideas.
 - 🌱 I’m learning and working with Vapor, iOS Design Patterns and some high level stuff💫😉
-- 👯 I’m looking to contribute on iOS Projects/Ideas
+- 👯 I’m looking to contribute on `iOS` Projects/Ideas
 - 💬 Ask me about `Swift`, `SwiftUI` or `iOS` Development in general
 - ⚡ Fun facts: I speak `SwiftUI`, and I know the truth!🧞‍♂️
 - 🔦 Read less on my nano website: [cedricbahirwe](https://cedricbahirwe.github.io)
