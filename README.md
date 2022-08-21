@@ -5,12 +5,10 @@
 - 👨🏽‍💻 Aspiring System Architect and OS X Developer
 - ⚙ I'm passionate about Clean Code and Architecture
 - 🔭 I’m currently working on some projects, few things and a lot of ideas.
-- 🌱 I’m learning and working with Vapor, iOS Design Patterns and some high level stuff💫😉
 - 👯 I’m looking to contribute on `iOS` Projects/Ideas
 - 💬 Ask me about `Swift`, `SwiftUI` or `iOS` Development in general
 - ⚡ Fun facts: I speak `SwiftUI`, and I know the truth!🧞‍♂️
 - 🔦 Read less on my nano website: [cedricbahirwe](https://cedricbahirwe.github.io)
-- 🔑 If you want to discuss business, please reach out at abc.incs.001@gmail.com
 
 ### About me
 Responsible, great focus abilities and growth mindset are the top characteristics that best define my aptitude towards work.
