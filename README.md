@@ -12,8 +12,6 @@
 - 🔦 Read less on my nano website: [cedricbahirwe](https://cedricbahirwe.github.io)
 
 ### About me
-Responsible, great focus abilities and growth mindset are the top characteristics that best define my aptitude towards work.
-
 I work diligently as an individual and as a team member. I develop professional iOS and web applications. My favorite tasks concern analyzing, testing, debugging, troubleshooting, and implementing based on user or system design specifications.
 
 ### Connect with me:
