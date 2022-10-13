@@ -12,7 +12,7 @@
 - 🔦 Read less on my nano website: [cedricbahirwe](https://cedricbahirwe.github.io)
 
 ### About me
-I work diligently as an individual and as a team member. I develop professional iOS and web applications. My favorite tasks concern analyzing, testing, debugging, troubleshooting, and implementing based on user or system design specifications.
+I work diligently as an individual and as a team member. I develop professional iOS and web applications. My favorite tasks concern analyzing, testing, debugging, troubleshooting, and implementing based on user and system design specifications.
 
 ### Connect with me:
 
