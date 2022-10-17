@@ -10,7 +10,7 @@
 - 💬 Ask me about `Swift`, `SwiftUI` or `iOS` Development in general
 - ⚡ Fun facts: I speak `SwiftUI`, and I know the truth!🧞‍♂️
 - 🔦 Read less on my nano website: [cedricbahirwe](https://cedricbahirwe.github.io)
-![visitors](https://visitor-badge.glitch.me/badge?page_id=nirajpdn.visitor-badge)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=cedricbahirwe.visitor-badge)
 
 ### Connect with me:
 
