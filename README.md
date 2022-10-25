@@ -3,6 +3,7 @@
 
 - 🏭 I'm an `iOS` Engineer and Back-End (`Vapor`) Enthusiast
 - 👨🏽‍💻 Aspiring System Architect and OS X Developer
+- 🎼 I'm interested in finance, agriculture and education
 - 👷 Built [Dial It](https://apps.apple.com/ke/app/dial-it/id1591756747), [AUCA Transcript](https://apps.apple.com/app/id6443527716) and more.
 - ⚙ I love Clean Code and Architecture
 - 🔭 I’m currently working on some projects, few things and a lot of ideas.
