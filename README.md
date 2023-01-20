@@ -1,16 +1,15 @@
-### Hi there👋, I'm Cédric Bahirwe
+### Hi there👋🏽, I'm Cédric Bahirwe
 
 
 - 🏭 I'm an `iOS` Engineer and Back-End (`Vapor`) Enthusiast
-- 👨🏽‍💻 Aspiring System Architect and OS X Developer
-- 👷🏽‍♂️ Built [Dial It](https://apps.apple.com/ke/app/dial-it/id1591756747), [AUCA Transcript](https://apps.apple.com/app/id6443527716) and [more](https://cedricbahirwe.github.io/html/about).
+- 👨🏽‍💻 Aspiring Software System Architect Developer
+- 👷🏽‍♂️ I built [Dial It](https://apps.apple.com/ke/app/dial-it/id1591756747), [AUCA Transcript](https://apps.apple.com/app/id6443527716) and [more](https://cedricbahirwe.github.io).
 - 🎼 I'm interested in finance, agriculture and education
 - 🔭 I’m currently working on some projects, a few things and a lot of ideas.
 - 👯 I’m looking to contribute on `Swift` and `Kotlin` Projects/Ideas
 - 📝 I rarely write at https://cedricbahirwe.hashnode.dev/
 - 💬 Ask me about `Swift`, `SwiftUI` or `iOS` Development in general
-- ⚡ Fun facts: I speak `SwiftUI`, and I know the truth!🧞‍♂️
-- 🔦 Read less about me on my [nano site](https://cedricbahirwe.github.io)
+- 🔦 Read more about me on my [website](https://cedricbahirwe.github.io)
 
 ### Connect with me:
 
