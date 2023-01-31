@@ -3,7 +3,7 @@
 
 - 🏭 I'm an `iOS` Engineer and Back-End (`Vapor`) Enthusiast
 - 👨🏽‍💻 Aspiring Software System Architect Developer
-- 👷🏽‍♂️ I built [Dial It](https://apps.apple.com/ke/app/dial-it/id1591756747), [AUCA Transcript](https://apps.apple.com/app/id6443527716) and [more](https://cedricbahirwe.github.io).
+- 👷🏽‍♂️ Building Dialer [iOS](https://apps.apple.com/ke/app/dial-it/id1591756747), [AUCA Transcript](https://apps.apple.com/app/id6443527716) and [Android](https://github.com/cedricbahirwe/dialer-android) and [more](https://cedricbahirwe.github.io).
 - 🎼 I'm interested in finance, agriculture and education
 - 🔭 I’m currently working on some projects, a few things and a lot of ideas.
 - 👯 I’m looking to contribute on `Swift` and `Kotlin` Projects/Ideas
