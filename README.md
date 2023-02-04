@@ -8,8 +8,4 @@
 - 📝 I rarely write at https://cedricbahirwe.hashnode.dev/
 - 💬 Ask me about `Swift`, `SwiftUI` or `iOS` Development in general
 - 🔦 Read more about me on my [website](https://cedricbahirwe.github.io)
-
-### Connect with me:
-
-[![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/cedricbahirwe)
-[![Follow on Twitter](https://img.shields.io/badge/--twitter?label=Twitter&logo=Twitter&style=social)](https://twitter.com/cedricbahirwe)
+- 🔗 Let's connect on [LinkedIn](https://www.linkedin.com/in/cedricbahirwe)
