@@ -1,5 +1,5 @@
-- 🏭 I'm an `iOS` Engineer and `Vapor` Enthusiast
-- 👨🏽‍💻 Aspiring ML& AI System Architect
+- 🏭 I'm an `iOS` Engineer
+- 👨🏽‍💻 Aspiring ML & AI Systems Architect
 - 👷🏽‍♂️ Currently building Dialer on [iOS](https://apps.apple.com/ke/app/dial-it/id1591756747), [Android](https://github.com/cedricbahirwe/dialer-android) and [more](https://cedricbahirwe.github.io).
 - 📝 I sometimes write at https://cedricbahirwe.hashnode.dev/
 - 🔦 Read more about me at [cedricbahirwe.io](https://cedricbahirwe.github.io)
