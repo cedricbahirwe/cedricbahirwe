@@ -1,4 +1,4 @@
-- 🏭 I'm an iOS Engineer
+- 🏭 I'm a Mobile Engineer (Native iOS & Android)
 - 👨🏽‍💻 Learning ML & AI Systems with Python
 - 👷🏽‍♂️ Building Dialer on [iOS](https://apps.apple.com/ke/app/dial-it/id1591756747), [Android](https://github.com/cedricbahirwe/dialer-android) and [more](https://cedricbahirwe.github.io).
 - 📝 Write sometimes at https://cedricbahirwe.hashnode.dev/
