@@ -1,5 +1,5 @@
 - 🏭 I'm a Mobile Engineer
 - 👨🏽‍💻 Tinkering with ML & AI Systems
-- 👷🏽‍♂️ Building [Dialer](https://apps.apple.com/rw/app/dial-it/id1591756747) and [more](https://cedricbahirwe.com).
-- 📝 Writing at [blog.cedricbahirwe.com](http://blog.cedricbahirwe.com).
+- 👷🏽‍♂️ Building [Dialer](https://apps.apple.com/rw/app/dial-it/id1591756747) and [more](https://cedricbahirwe.com)
+- 📝 Writing at [blog.cedricbahirwe.com](http://blog.cedricbahirwe.com)
 - 🔗 Stalk me on [LinkedIn](https://www.linkedin.com/in/cedricbahirwe)
